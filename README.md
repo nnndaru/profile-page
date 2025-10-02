@@ -1,38 +1,38 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hi there, I'm [Nama Anda] 👋
+    Hi there, I'm Tri Aji Prabandaru 👋
   </h1>
   <h3>
-    [Tagline atau Deskripsi Singkat Anda]
+    A passionate developer and lifelong learner exploring the world of technology
   </h3>
-  <a href="[Link Profil LinkedIn Anda]" target="_blank">
+  <a href="https://www.linkedin.com/in/tri-aji-prabandaru-76200742/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[Link Profil Twitter/X Anda]" target="_blank">
+  <a href="https://twitter.com/nnndaru" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="[Link Website/Portfolio Pribadi Anda]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-_?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="https://nnndaru.github.io/profile-page/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
 <p align="left">
-Saya seorang <strong>[Profesi Anda, misal: Arsitek dan Pengembang Perangkat Lunak]</strong> yang bersemangat dalam merancang dan membangun solusi, baik di dunia nyata maupun di dunia digital. Saya percaya bahwa prinsip-prinsip desain arsitektur yang solid—seperti struktur, fungsionalitas, dan estetika—dapat diterapkan untuk menciptakan kode yang elegan dan efisien.
+I'm a <strong>Front-end Web Developer</strong> based in Tangerang Selatan with a passion for building beautiful and functional web applications. With over 1 year of experience in the tech industry, I specialize in JavaScript frameworks like React, Next.js, and Node.js.
 <br><br>
-- 🔭 Saat ini saya sedang mengerjakan <strong>[Nama Proyek atau Tipe Proyek]</strong>.
+- 🔭 I'm currently working on <strong>various web development and open-source projects</strong>.
 <br>
-- 🌱 Saat ini saya sedang mendalami <strong>[Teknologi yang sedang dipelajari]</strong>.
+- 🌱 I'm currently learning <strong>advanced React patterns and modern web technologies</strong>.
 <br>
-- 👯 Saya terbuka untuk berkolaborasi dalam proyek <strong>[Jenis proyek yang diminati, misal: Open Source, Web Development, dll.]</strong>.
+- 👯 I'm looking to collaborate on <strong>Open Source, Web Development, and Front-end Projects</strong>.
 <br>
-- 📫 Cara menghubungi saya: <strong>[Alamat Email Anda]</strong>.
+- 📫 How to reach me: <strong>aji.prabandaru@gmail.com</strong>.
 <br>
-- ⚡ Fakta menarik: <strong>[Fakta unik atau hobi Anda]</strong>.
+- ⚡ Fun fact: <strong>In my free time, I enjoy sketching and exploring new coffee shops</strong>.
 </p>
 
 ---
@@ -42,7 +42,7 @@ Saya seorang <strong>[Profesi Anda, misal: Arsitek dan Pengembang Perangkat Luna
 <p align="left">
   <strong>Languages:</strong><br>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   </p>
@@ -50,50 +50,51 @@ Saya seorang <strong>[Profesi Anda, misal: Arsitek dan Pengembang Perangkat Luna
 <p align="left">
   <strong>Frontend Development:</strong><br>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+  <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   </p>
 
 <p align="left">
-  <strong>Backend Development:</strong><br>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <strong>Libraries & Tools:</strong><br>
+  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"></a>
+  <a href="#"><img alt="Tanstack Query" src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"></a>
+  <a href="#"><img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"></a>
+  <a href="#"><img alt="Radix UI" src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white"></a>
+  <a href="#"><img alt="Shadcn/UI" src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"></a>
   </p>
 
 <p align="left">
-  <strong>Software & Tools:</strong><br>
-  <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autocad&logoColor=white"></a>
-  <a href="#"><img alt="SketchUp" src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <strong>Development Tools:</strong><br>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
   </p>
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMA_PENGGUNA_ANDA&show_icons=true&theme=radical&count_private=true" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nnndaru&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_PENGGUNA_ANDA&layout=compact&theme=radical" alt="Bahasa Pemrograman Teratas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnndaru&layout=compact&theme=radical" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMA_PENGGUNA_ANDA&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnndaru&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🚀 Proyek Unggulan Saya
+### 🚀 My Featured Projects
 
-| Proyek                                       | Deskripsi Singkat                                        | Teknologi yang Digunakan             |
+| Project                                       | Brief Description                                        | Technologies Used             |
 | -------------------------------------------- | -------------------------------------------------------- | ------------------------------------ |
-| **[Nama Proyek 1](Link ke Repositori)** | Deskripsi singkat dan menarik tentang proyek ini.        | `React`, `Node.js`, `PostgreSQL`     |
-| **[Nama Proyek 2](Link ke Repositori)** | Deskripsi singkat dan menarik tentang proyek ini.        | `Python`, `Django`, `AutoCAD API`    |
-| **[Nama Proyek 3](Link ke Repositori)** | Deskripsi singkat dan menarik tentang proyek ini.        | `Figma`, `HTML`, `CSS`               |
+| **[Project Alpha](https://github.com/nnndaru)** | A responsive e-commerce website built with React and modern CSS, featuring product catalog, shopping cart functionality, and user authentication. | `React`, `CSS`, `JavaScript`, `Git`     |
+| **[Project Beta](https://github.com/nnndaru/profile-page)** | An interactive Profile Page website showcasing clean HTML5 structure, advanced CSS animations, and JavaScript interactivity. | `HTML5`, `CSS3`, `JavaScript`    |
+| **[Project Gamma](https://github.com/nnndaru)** | A task management web application developed with React hooks and local storage integration. Features drag-and-drop functionality and real-time updates. | `React`, `JavaScript`, `Local Storage`               |
 
 <br>
 
 <div align="center">
-  <strong>Terima kasih telah berkunjung! Mari terhubung.</strong>
+  <strong>Thanks for visiting! Let's connect.</strong>
 </div>
